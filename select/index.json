@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "春夏秋冬",
   "base_artist": "Hilcrhyme",
-  "createdAt": "2026-03-25T10:18:29.033052Z",
+  "createdAt": "2026-04-04T02:21:18.924986Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,6 +155,15 @@
       "artist": "Hilcrhyme",
       "has_synced": false,
       "path": "select/pl_01_春夏秋冬_Hilcrhyme.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "春夏秋冬",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/localdb_01_春夏秋冬_Hilcrhyme.txt",
+      "repo_name": "QHR20uW28jo"
     }
   ]
 }
